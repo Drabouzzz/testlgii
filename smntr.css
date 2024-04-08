@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Vampiro+One&display=swap");
+
+* html, body {
+    margin: none;
+    padding: none;
+}
+body {
+    background-color: #3a3a3a;
+    font-family: "Poppins", sans-serif;
+
+}
+.isi {
+    width: 360px;
+    background-color: #3a3a3a;
+}
+.isinya {
+    background-color: #3a3a3a;
+}
+.bjudul {
+    display: flex;
+    justify-content: center;
+}
+.earlybtn {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.jdltkj {
+    display: flex;
+    justify-content: center;
+}
+.atsbdrtkj {
+    display: flex;
+    justify-content: center;
+}
+.isibdrtkj {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+.bachievement {
+    display: flex;
+    justify-content: center;
+}
+.bachievement2 {
+    display: flex;
+    justify-content: center;
+}
+.footer {
+    background-color: white;
+}
